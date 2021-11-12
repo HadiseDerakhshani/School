@@ -1,7 +1,5 @@
-package main;
 
-import com.school.Course;
-import com.school.School;
+
 
 public class Main {
 
