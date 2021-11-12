@@ -46,6 +46,9 @@ public class Course {
 
     @Override
     public String toString() {
-        return "{"+ name + ": " + courseNumber + '}';
+        return "Course{" +
+                "name='" + name + '\'' +
+                ", courseNumber=" + courseNumber +
+                '}';
     }
 }
